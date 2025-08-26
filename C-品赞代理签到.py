@@ -2,7 +2,7 @@
 #账号变量：pzhttp
 #多账号分割：账号#密码&账号2#密码2
 #【重要提示】
-#推荐代理注册：https://www.ipzan.com?pid=g587ksmm
+#推荐代理注册：https://www.ipzan.com?pid=pmiqpjdb8
 #Powered By：expansion
 #By：AI大模型供应商：api.expansion.chat（全模型API调用）
 
